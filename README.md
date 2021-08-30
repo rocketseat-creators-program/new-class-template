@@ -8,9 +8,9 @@ Introdução ao seu projeto. Apresentado por [Seu nome][1].
 
 ## Instalação
 
-1.
-2.
-3.
+1. Use este template
+2. Edite o README.md
+3. Adicione seus arquivos
 
 ## Expert
 
